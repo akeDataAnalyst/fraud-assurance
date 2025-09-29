@@ -1,0 +1,11 @@
+# Ignore Python environment files
+__pycache__/
+*.pyc
+
+# Ignore large model/data files
+*.joblib
+*.jobjob
+*.csv
+
+# Ignore the virtual environment
+venv/
